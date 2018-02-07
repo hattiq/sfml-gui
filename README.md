@@ -1,2 +1,2 @@
-# sfml-gui
-C++ SFML GUI Framework 
+# SFML-GUI
+C++ SFML GUI Library
